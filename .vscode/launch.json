@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ATM",
+            "request": "launch",
+            "mainClass": "ATM",
+            "projectName": "SessionOne_5f6a47e8"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayMatrix",
+            "request": "launch",
+            "mainClass": "ArrayMatrix",
+            "projectName": "SessionOne_5f6a47e8"
+        },
+        {
+            "type": "java",
+            "name": "Launch DjikstraAlgorithm",
+            "request": "launch",
+            "mainClass": "DjikstraAlgorithm",
+            "projectName": "SessionOne_5f6a47e8"
+        },
+        {
+            "type": "java",
+            "name": "Launch InputMatrix",
+            "request": "launch",
+            "mainClass": "InputMatrix",
+            "projectName": "SessionOne_5f6a47e8"
+        },
+        {
+            "type": "java",
+            "name": "Launch JSonAPI",
+            "request": "launch",
+            "mainClass": "JSonAPI",
+            "projectName": "SessionOne_5f6a47e8"
+        }
+    ]
+}
